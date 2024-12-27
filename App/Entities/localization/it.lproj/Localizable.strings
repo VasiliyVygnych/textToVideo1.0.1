@@ -1,0 +1,235 @@
+/* 
+  Localizable.strings
+  CreateAIVideo
+
+  Created by Vasiliy Vygnych on 09.11.2024.
+  
+*/
+
+//eng -> it
+"Home" = "Home" ;
+"Albums" = "Album" ;
+"Settings" = "Impostazioni" ;
+
+"Monthly" = "Mensile" ;
+"Yearly Save 20%" = "Annuale Risparmia 20%" ;
+"Save 20%" = "Risparmia 20%" ;
+"Pricing" = "Prezzi" ;
+"Subscribe" = "Abbonati" ;
+"Restore" = "Ripristina" ;
+"Terms" = "Termini" ;
+"Privacy" = "Privacy" ;
+"Plus" = "Plus" ;
+"Lots of new features" = "Molte nuove funzionalità" ;
+"/ month" = "/ mese" ;
+"/ year" = "/ anno" ;
+"Popular" = "Popolare" ;
+"Ultra" = "Ultra" ;
+"Unlocks all functions" = "Sblocca tutte le funzioni" ;
+"Free" = "Gratis" ;
+"Creation of 10 AI videos" = "Creazione di 10 video AI" ;
+"Current plan" = "Piano attuale" ;
+
+"50 seconds/week of AI generation" = "50 min/settimana di generazione AI" ;
+"Unlimited seconds/week of AI generation" = "Secondi illimitati / settimana di generazione AI" ;
+"10 seconds/week of AI generation" = "10 secondi/settimana di generazione AI" ;
+
+
+"5 videos in album" = "5 video nell'album" ;
+"Create 5 albums" = "Crea 5 album" ;
+"10 videos saved" = "10 video salvati" ;
+"Scripting with AI" = "Script con AI" ;
+"Terms of Use" = "Condizioni d'uso" ;
+"Privacy Policy" = "Politica sulla privacy" ;
+"Recent Activity" = "Attività recente" ;
+"Saved videos" = "Video salvati" ;
+"Show more" = "Mostra di più" ;
+"Create a first video" = "Crea un primo video" ;
+"It's empty here yet" = "Qui è ancora vuoto" ;
+"All saved videos" = "Tutti i video salvati" ;
+"Upgrade" = "Aggiorna" ;
+"Active" = "Attivo" ;
+"Create a video" = "Crea un video" ;
+"Describe the video here" = "Descrivi il video qui" ;
+"Generate a video" = "Genera un video" ;
+"Workflows & Plugins" = "Flussi di lavoro e plugin" ;
+"Basic workflows" = "Flussi di lavoro di base" ;
+"Script to video" = "Script a video" ;
+"Youtube Shorts" = "Youtube Shorts" ;
+"Instagram Reels" = "Instagram Reels" ;
+"Basic workflows:" = "Flussi di lavoro di base:" ;
+"Script to video:" = "Script a video:" ;
+"Youtube Shorts:" = "Youtube Shorts:" ;
+"Instagram Reels:" = "Instagram Reels:" ;
+"You can describe the video yourself, or use the section Workflows & Plugins" = "Puoi descrivere il video tu stesso o utilizzare la sezione Flussi di lavoro e plugin" ;
+"Workflows & Plugins" = "Flussi di lavoro e plugin" ;
+"Video duration" = "Durata del video" ;
+"Youtube shorts duration" = "Durata di Youtube Shorts" ;
+"Instagram reels duration" = "Durata di Instagram Reels" ;
+"Video description" = "Descrizione del video" ;
+"Background music" = "Musica di sottofondo" ;
+"Video aspect ratio" = "Rapporto d'aspetto del video" ;
+"Save changes" = "Salva modifiche" ;
+"Describe what you want to see in this video" = "Descrivi cosa vuoi vedere in questo video" ;
+"Upload from device" = "Carica dal dispositivo" ;
+"Example: cheerful" = "Esempio: allegro" ;
+"Select aspect" = "Seleziona aspetto" ;
+"Select duration" = "Seleziona durata" ;
+"15 seconds" = "15 secondi" ;
+"1 minute" = "1 minuto" ;
+"5 minutes" = "5 minuti" ;
+"10 minutes" = "10 minuti" ;
+"15 minutes" = "15 minuti" ;
+"15 seconds" = "15 secondi" ;
+"30 seconds" = "30 secondi" ;
+"1 minute" = "1 minuto" ;
+"Other time" = "Altro tempo" ;
+"0 min" = "0 min" ;
+"0 sec" = "0 sec" ;
+"min" = "min" ;
+"sec" = "sec" ;
+"Basic video script" = "Script video di base" ;
+"Describe the main scenario of your video to better build a logical chain" = "Descrivi lo scenario principale del tuo video per costruire meglio una catena logica" ;
+"Write down the main keys for script" = "Scrivi i punti principali per lo script" ;
+"Video duration" = "Durata del video" ;
+"aspect ratio" = "rapporto d'aspetto" ;
+"music" = "musica" ;
+"Generating.." = "Generazione in corso.." ;
+"Do not turn off your device or lock the screen" = "Non spegnere il dispositivo o bloccare lo schermo" ;
+"Result" = "Risultato" ;
+"Save video" = "Salva video" ;
+"Skip" = "Salta" ;
+"Video title" = "Titolo del video" ;
+"To use this feature, select an Ultra subscription." = "Per utilizzare questa funzione, seleziona un abbonamento Ultra." ;
+"You have reached the limit of 3 videos" = "Hai raggiunto il limite di 3 video" ;
+"You have reached the limit of 10 videos" = "Hai raggiunto il limite di 10 video" ;
+"You have exhausted the number of minutes to generate a video. They are updated every week." = "Hai esaurito i minuti disponibili per generare un video. Si aggiornano ogni settimana." ;
+"minute" = "minuto" ;
+"seconds" = "secondi" ;
+"Support our growth, rate us!" = "Sostieni la nostra crescita, valutaci!" ;
+"Yes" = "Sì" ;
+"No" = "No" ;
+"Albums" = "Album" ;
+"It's empty here yet" = "Qui è ancora vuoto" ;
+"This feature is not available in this subscription" = "Questa funzione non è disponibile in questo abbonamento" ;
+"You have reached the limit of 5 albums" = "Hai raggiunto il limite di 5 album" ;
+"more than 5 videos cannot be added to the album as part of this subscription" = "non possono essere aggiunti più di 5 video all'album in questo abbonamento" ;
+"Create new album" = "Crea nuovo album" ;
+"Create a album" = "Crea un album" ;
+"My video" = "Il mio video" ;
+"Album title" = "Titolo dell'album" ;
+"Example: My first videos" = "Esempio: I miei primi video" ;
+"Save changes" = "Salva modifiche" ;
+"Show more" = "Mostra di più" ;
+"All saved videos" = "Tutti i video salvati" ;
+"Add to album" = "Aggiungi all'album" ;
+"Upgrade" = "Aggiorna" ;
+"Active" = "Attivo" ;
+"Limit on" = "Limite di" ;
+"videos" = "video" ;
+"Special" = "Speciale" ;
+"General" = "Generale" ;
+"Edit video" = "Modifica video" ;
+"Discard" = "Scarta" ;
+"Apply" = "Applica" ;
+"Library" = "Libreria" ;
+"Stock" = "Archivio" ;
+"Upload media" = "Carica media" ;
+"Rate app" = "Tasso app" ;
+"Give us feedback" = "Dacci un feedback" ;
+"Share app" = "Condividi app" ;
+"Start from scratch" = "Inizia da zero" ;
+
+"There is no access to your gallery." = "Non c'è accesso alla tua galleria." ;
+"Allow access?" = "Consentire l'accesso?" ;
+"Close" = "Chiudere" ;
+"Settings" = "Impostazioni" ;
+
+"Unlimited mins/week of AI generation" = "Minuti illimitati / settimana di generazione AI" ;
+"10 mins/week of AI generation" = "10 minuti/settimana di generazione AI" ;
+"15 videos in album" = "15 video in album" ;
+"Videos in album" = "Video in album" ;
+"Create unlimited albums" = "Crea album illimitati" ;
+"Create albums" = "Creare album" ;
+"Unlimited videos saved" = "Video salvati illimitati" ;
+"3 videos saved" = "3 video salvati" ;
+"Done" = "Fatto" ;
+"Generation" = "Generazione" ;
+"Error" = "Errore" ;
+"Something went wrong. Please try again later." = "Qualcosa è andato storto. Riprova più tardi." ;
+"To use this feature, select an Ultra subscription." =  "Per utilizzare questa funzione, selezionare un abbonamento Ultra.";
+"Video duration" = "Durata del video" ;
+"aspect ratio" = "proporzione" ;
+"music" = "musicale" ;
+
+"Open Settings" = "Apri Impostazioni" ;
+"Cancel" = "Annullare" ;
+"Access to the gallery is closed" = "L'accesso alla galleria è chiuso" ;
+"to open access, go to settings" = "per aprire l'accesso, vai su Impostazioni" ;
+
+"delete" = "cancella" ;
+"Text/Image to video" = "testo/Immagine in video" ;
+"Crop image" = "Ritaglia immagine" ;
+"Done" = "Fatto" ;
+"Video to video" = "Video in video" ;
+"Video" = "Video" ;
+"Style" = "Stile" ;
+"Create now" = "Crea ora" ;
+"Select a category" = "Seleziona una categoria" ;
+"Advanced video" = "Video avanzato" ;
+"Generate" = "Generare" ;
+
+"Select Model" = "Seleziona Modello" ;
+"Select" = "Selezionare" ;
+"Info about models" = "Informazioni sui modelli" ;
+"Use photo" = "Usa foto" ;
+"No photo" = "Nessuna foto" ;
+"AI Video" = "AI Video" ;
+"Text to Video" = "Testo al video" ;
+"Advanced" = "Avanzato" ;
+
+"Fastest generation model" = "Modello di generazione più veloce" ;
+"Model for text queries" = "Modello per query di testo" ;
+"Opening soon" = "Presto" ;
+
+"optimal in speed / quality" = "ottimale in velocità / qualità" ;
+"high detail, long generation" = "alto dettaglio, lunga generazione" ;
+"basic detail, fast generation" = "dettaglio di base, generazione veloce" ;
+
+"High detail, video generation up to 20 minutes. You can select the time - 5/10 seconds. When choosing image to video, uses a photo / object with a photo, the neural network can move the object / change the photo under the prompt." = "High detail, video generation up to 20 minutes. You can select the time - 5/10 seconds. When choosing image to video, uses a photo / object with a photo, the neural network can move the object / change the photo under The prompt." ;
+"Basic detail, fast generation, on average up to 5 minutes. When choosing image to video, uses a photo / object with a photo, the neural network can move the object / change the photo under the prompt." = "Базовая детализация, быстрая генерация, в среднем до 5 минут. При выборе изображения для видео используется фотография/объект с фотографией, нейронная сеть может переместить объект/изменить фотографию по подсказке." ;
+"Optimal in terms of speed/quality. Average generation time is 5 minutes. You cannot select the length of the video - it is always fixed, 6 seconds. When choosing image to video, it “animates” the photo - it starts from the photo, using it as the first frame of the video." = "Оптимальный с точки зрения скорости/качества. Среднее время генерации составляет 5 минут. Вы не можете выбрать продолжительность видео - она всегда фиксированная, 6 секунд. При выборе изображения для видео программа “анимирует” фотографию - она начинается с фотографии, используя ее в качестве первого кадра видео." ;
+
+//MARK: - New
+
+"Plus" = "Plus" ;
+"Ultra" = "Ultra" ;
+"Free" = "Libero" ;
+"Increased tariff with additional basic credits and expanded functionality" = "Aumento della tariffa con crediti di base aggiuntivi e funzionalità ampliate" ;
+"The most favorable tariff. the entire international is available without restrictions" = "La tariffa più favorevole. l'intera internazionale è disponibile senza restrizioni" ;
+"The basic tariff is suitable for trying neural networks. There are several free requests" = "La tariffa di base è adatta per provare le reti neurali. Ci sono diverse richieste gratuite" ;
+"credits" = "credito" ;
+"Credits" = "Credito" ;
+"5 seconds kling generation" = "5 secondi kling generazione" ;
+"Unlimited video downloads" = "Download video illimitati" ;
+"Unlimited create albums" = "Scarica video illimitati" ;
+"5/10 seconds kling generation" = "5/10 secondi kling generazione" ;
+"Buy now" = "Acquista ora" ;
+"Upgrade your plan" = "Aggiorna il tuo piano" ;
+"Yearly -20% off" = "Annuale -20% di sconto" ;
+"Monthly" = "Mensile" ;
+"Upgrade" = "Aggiornamento" ;
+"Restore membership" = "Ripristinare l'appartenenza" ;
+"credits reamaining" = "crediti rimanenti" ;
+"Upgrade plan" = "Piano di aggiornamento" ;
+"Monthly Plus" = "Mensile Plus" ;
+"Monthly Ultra" = "Mensile Ultra" ;
+"Yearly Plus" = "Annuale Plus" ;
+"Yearly Ultra" = "Annuale Ultra" ;
+"Free" = "Libero" ;
+"plan" = "pianificare" ;
+
+"Info about credits" = "Info sui crediti" ;
+"1 Natash generation" = "1 Natash generazione" ;
+"1 kling generation (10sec)" = "" ;
+"1 kling generation (5sec)" = "" ;

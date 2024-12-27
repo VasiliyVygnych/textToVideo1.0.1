@@ -1,0 +1,235 @@
+/* 
+  Localizable.strings
+  CreateAIVideo
+
+  Created by Vasiliy Vygnych on 09.11.2024.
+  
+*/
+
+//rus -> eng
+"Дом" = "Home" ;
+"Альбомы" = "Albums" ;
+"Настройки" = "Settings" ;
+
+"Ежемесячная" = "Monthly" ;
+"Годовая Скидка 20%" = "Yearly Save 20%" ;
+"Скидка 20%" = "Save 20%" ;
+"Стоимость" = "Pricing" ;
+"Подписаться" = "Subscribe" ;
+"Восстановить" = "Restore" ;
+"Условия" = "Terms" ;
+"Политика" = "Privacy" ;
+"Плюс" = "Plus" ;
+"Множество новых функций" = "Lots of new features" ;
+"/ месяц" = "/ month" ;
+"/ год" = "/ year" ;
+"Популярный" = "Popular" ;
+"Ультра" = "Ultra" ;
+"Разблокирует все функции" = "Unlocks all functions" ;
+"Бесплатно" = "Free" ;
+"Создание 10 видео с ИИ" = "Creation of 10 AI videos" ;
+"Текущий план" = "Current plan" ;
+
+"50 секунд в неделю для создания ИИ" = "50 seconds/week of AI generation" ;
+"Неограниченные секунды в неделю на создание ИИ" = "Unlimited seconds/week of AI generation" ;
+"10 секунд в неделю для создания ИИ" = "10 seconds/week of AI generation" ;
+
+
+"5 видео в альбоме" = "5 videos in album" ;
+"Создать 5 альбомов" = "Create 5 albums" ;
+"Сохранить 10 видеороликов" = "10 videos saved" ;
+"Написание с помощью ИИ" = "Scripting with AI" ;
+"Условия Использования" = "Terms of Use" ;
+"Политика Приватности" = "Privacy Policy" ;
+"Недавняя активность" = "Recent Activity" ;
+"Сохраненные видео" = "Saved videos" ;
+
+"15 видео в альбоме" = "15 videos in album" ;
+"Видео в альбоме" = "Videos in album" ;
+"Неограниченное количество альбомов" = "Create unlimited albums" ;
+"Создание альбомов" = "Create albums" ;
+"Сохраняйте видео без ограничений" = "Unlimited videos saved" ;
+"Сохранить 3 видео" = "3 videos saved" ;
+
+"Показать больше" = "Show more" ;
+"Создайте первое видео" = "Create a first video" ;
+"Здесь пока пусто" = "It's empty here yet" ;
+"Все сохраненные видео" = "All saved videos" ;
+"Обновить" = "Upgrade" ;
+"Активный" = "Active" ;
+"Создайте видео" = "Create a video" ;
+"Опишите видео здесь" = "Describe the video here" ;
+"Создание видео" = "Generate a video" ;
+"Рабочие процессы & плагины" = "Workflows & Plugins" ;
+"Основные рабочие процессы" = "Basic workflows" ;
+"Сценарий к видео" = "Script to video" ;
+"Youtube Shorts" = "Youtube Shorts" ;
+"Instagram Reels" = "Instagram Reels" ;
+"Основные рабочие процессы:" = "Basic workflows:" ;
+"Сценарий к видео:" = "Script to video:" ;
+"Youtube Shorts:" = "Youtube Shorts:" ;
+"Instagram Reels:" = "Instagram Reels:" ;
+"Вы можете описать видео самостоятельно или воспользоваться разделом Рабочие процессы и плагины" = "You can describe the video yourself, or use the section Workflows & Plugins" ;
+"Рабочие процессы & плагины" = "Workflows & Plugins" ;
+"Продолжительность видео" = "Video duration" ;
+"Продолжительность Youtube shorts" = "Youtube shorts duration" ;
+"Продолжительность Instagram reels" = "Instagram reels duration" ;
+"Описание видео" = "Video description" ;
+"Фоновая музыка" = "Background music" ;
+"Соотношение сторон" = "Video aspect ratio" ;
+"Сохранить изменения" = "Save changes" ;
+"Опишите, что вы хотите увидеть в этом видео" = "Describe what you want to see in this video" ;
+"Загрузка с устройства" = "Upload from device" ;
+"Например: веселая" = "Example: cheerful" ;
+"Выберите соотношение" = "Select aspect" ;
+"Выберите продолжительность" = "Select duration" ;
+"15 секунд" = "15 seconds" ;
+"1 минуту" = "1 minute" ;
+"5 минут" = "5 minutes" ;
+"10 минут" = "10 minutes" ;
+"15 минут" = "15 minutes" ;
+"15 секунд" = "15 seconds" ;
+"30 секунд" = "30 seconds" ;
+"1 минута" = "1 minute" ;
+"Другое время" = "Other time" ;
+"0 мин" = "0 min" ;
+"0 сек" = "0 sec" ;
+"мин" = "min" ;
+"сек" = "sec" ;
+"Базовый видео-скрипт" = "Basic video script" ;
+"Опишите основной сценарий вашего видео, чтобы лучше выстроить логическую цепочку" = "Describe the main scenario of your video to better build a logical chain" ;
+"Запишите основные ключи для скрипта" = "Write down the main keys for script" ;
+"Продолжительность видео" = "Video duration" ;
+"соотношение сторон" = "aspect ratio" ;
+"музыка" = "music" ;
+"Генерация.." = "Generating.." ;
+"Не выключайте свое устройство и не выходите из их приложений" = "Do not turn off your device or lock the screen" ;
+"Результат" = "Result" ;
+"Сохранить видео" = "Save video" ;
+"Пропустить" = "Skip" ;
+"Название видео" = "Video title" ;
+"Чтобы воспользоваться этой функцией, выберите подписку Ultra." = "To use this feature, select an Ultra subscription." ;
+"Вы достигли лимита в 3 видео" = "You have reached the limit of 3 videos" ;
+"Вы достигли лимита в 10 видео" = "You have reached the limit of 10 videos" ;
+"У вас закончилось количество минут для создания видео. Они обновляются каждую неделю." = "You have exhausted the number of minutes to generate a video. They are updated every week." ;
+"минут" = "minute" ;
+"секунд" = "seconds" ;
+"Поддержите наш рост, оцените нас!" = "Support our growth, rate us!" ;
+"Да" = "Yes" ;
+"Нет" = "No" ;
+"Альбомы" = "Albums" ;
+"Здесь пока пусто" = "It's empty here yet" ;
+"Эта функция недоступна в рамках данной подписки" = "This feature is not available in this subscription" ;
+"Вы достигли лимита в 5 альбомов" = "You have reached the limit of 5 albums" ;
+"в рамках этой подписки в альбом нельзя добавить более 5 видеороликов" = "more than 5 videos cannot be added to the album as part of this subscription" ;
+"Создать новый альбом" = "Create new album" ;
+"Создайте альбом" = "Create a album" ;
+"Мои видео" = "My video" ;
+"Название альбома" = "Album title" ;
+"Пример: Мои первые видео" = "Example: My first videos" ;
+"Сохранить изменения" = "Save changes" ;
+"Показать больше" = "Show more" ;
+"Все сохраненные видео" = "All saved videos" ;
+"Добавить в альбом" = "Add to album" ;
+"Обновить" = "Upgrade" ;
+"Активный" = "Active" ;
+"Ограничение на" = "Limit on" ;
+"видео" = "videos" ;
+"Особый" = "Special" ;
+"Основной" = "General" ;
+"Редактирование видео" = "Edit video" ;
+"Отбросить" = "Discard" ;
+"Применить" = "Apply" ;
+"Библиотека" = "Library" ;
+"Сток" = "Stock" ;
+"Загрузить медиа" = "Upload media" ;
+"Оцените приложение" = "Rate app" ;
+"Обратная связь" = "Give us feedback" ;
+"Поделиться приложением" = "Share app" ;
+"Начните с нуля" = "Start from scratch" ;
+
+"Нет доступа к вашей галерее." = "There is no access to your gallery." ;
+"Разрешить доступ?" = "Allow access?" ;
+"Закрыть" = "Close" ;
+"Настройки" = "Settings" ;
+"Готово" = "Done" ;
+"Генерация" = "Generation" ;
+"Ошибка" = "Error" ;
+"Что-то пошло не так. Пожалуйста, повторите попытку позже." = "Something went wrong. Please try again later." ;
+"Чтобы воспользоваться этой функцией, выберите подписку Ultra." = "To use this feature, select an Ultra subscription." ;
+"Продолжительность" = "Video duration" ;
+"Соотношение сторон" = "aspect ratio" ;
+"музыка" = "music" ;
+"Открыть настройки" = "Open Settings" ;
+"Отмена" = "Cancel" ;
+"Доступ к галереи закрыт" = "Access to the gallery is closed" ;
+"чтобы открыть доступ, перейдите в настройки" = "to open access, go to settings" ;
+
+"Удалить" = "delete" ;
+"Текст/изображение в видео" = "Text/Image to video" ;
+"Обрезка изображения" = "Crop image" ;
+"Готово" = "Done" ;
+"Видео в видео" = "Video to video" ;
+"Видео" = "Video" ;
+"Стиль" = "Style" ;
+"Создать сейчас" = "Create now" ;
+"Выберите категорию" = "Select a category" ;
+"Расширенное видео" = "Advanced video" ;
+"Генерировать" = "Generate" ;
+"Выберите модель" = "Select Model" ;
+"Выбрать" = "Select" ;
+"Информация о моделях" = "Info about models" ;
+"С фото" = "Use photo" ;
+"Без фото" = "No photo" ;
+"ИИ Видео" = "AI Video" ;
+"Текст в видео" = "Text to Video" ;
+"Расширенное" = "Advanced" ;
+
+"Модель самого быстрого поколения" = "Fastest generation model" ;
+"Модель для текстовых запросов" = "Model for text queries" ;
+
+"высокая детализация, долгая генерация" = "high detail, long generation" ;
+"оптимальная по скорости / качеству" = "optimal in speed / quality" ;
+"базовая детализация, быстрая генерация" = "basic detail, fast generation" ;
+
+"Скоро" = "Opening soon" ;
+
+"Высокая детализация, генерация видео длится до 20 минут. Вы можете выбрать время - 5/10 секунд. При выборе изображения для видео используется фотография/объект с фотографией, нейронная сеть может переместить объект/изменить фотографию по подсказке." = "High detail, video generation up to 20 minutes. You can select the time - 5/10 seconds. When choosing image to video, uses a photo / object with a photo, the neural network can move the object / change the photo under the prompt." ;
+"Базовая детализация, быстрая генерация, в среднем до 5 минут. При выборе изображения для видео используется фотография/ объект с фотографией, нейронная сеть может переместить объект / изменить фотографию по подсказке." = "Basic detail, fast generation, on average up to 5 minutes. When choosing image to video, uses a photo / object with a photo, the neural network can move the object / change the photo under the prompt." ;
+"Оптимальный с точки зрения скорости/качества. Среднее время генерации составляет 5 минут. Вы не можете выбрать продолжительность видео - она всегда фиксированная, 6 секунд. При выборе изображения для видео программа “анимирует” фотографию - она начинается с фотографии, используя ее в качестве первого кадра видео." = "Optimal in terms of speed/quality. Average generation time is 5 minutes. You cannot select the length of the video - it is always fixed, 6 seconds. When choosing image to video, it “animates” the photo - it starts from the photo, using it as the first frame of the video." ;
+
+
+//MARK: - New
+
+"Плюс" = "Plus" ;
+"Ультра" = "Ultra" ;
+"Бесплатная" = "Free" ;
+"Увеличенный тариф с дополнительными базовыми кредитами и расширенной функциональностью" = "Increased tariff with additional basic credits and expanded functionality" ;
+"Самый выгодный тариф. Весь международный доступен без ограничений" = "The most favorable tariff. the entire international is available without restrictions" ;
+"Базовый тариф подходит для пробного использования нейронных сетей. Есть несколько бесплатных запросов" = "The basic tariff is suitable for trying neural networks. There are several free requests" ;
+"кредитов" = "credits" ;
+"Кредитов" = "Credits" ;
+"5 секунд генерации клипа" = "5 seconds kling generation" ;
+"Неограниченные загрузки видео" = "Unlimited video downloads" ;
+"Неограниченное создание альбомов" = "Unlimited create albums" ;
+"5/10 секунд генерации клипа" = "5/10 seconds kling generation" ;
+"Купить сейчас" = "Buy now" ;
+"Обновите свой план" = "Upgrade your plan" ;
+"Ежегодно -20% скидка" = "Yearly -20% off" ;
+"Ежемесячно" = "Monthly" ;
+"Обновить" = "Upgrade" ;
+"Восстановить членство" = "Restore membership" ;
+"осталось кредитов" = "credits reamaining" ;
+"Обновить план" = "Upgrade plan" ;
+"Ежемесячный Plus" = "Monthly Plus" ;
+"Ежемесячный Ультра" = "Monthly Ultra" ;
+"Годовой Plus" = "Yearly Plus" ;
+"Годовой Ultra" = "Yearly Ultra" ;
+"Бесплатный" = "Free" ;
+"план" = "plan" ;
+
+
+"Информация о кредитах" = "Info about credits" ;
+"1 Natash поколение" = "1 Natash generation" ;
+"" = "1 kling generation (10sec)" ; // Dinson Pro  Dinson Standart
+"" = "1 kling generation (5sec)" ;

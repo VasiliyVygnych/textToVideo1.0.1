@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="24A335" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="AlbumContents" representedClassName="AlbumContents" syncable="YES">
+        <attribute name="addIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="duration" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="idNameAlbum" optional="YES" attributeType="String"/>
+        <attribute name="previewImage" optional="YES" attributeType="Binary"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="videoURL" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="AlbumsData" representedClassName="AlbumsData" syncable="YES">
+        <attribute name="addIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="dateOfCreate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="nameAlbum" optional="YES" attributeType="String"/>
+        <attribute name="nameId" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="AppData" representedClassName="AppData" syncable="YES">
+        <attribute name="albumLimitPlus" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="albumLimitUltra" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="creditsCount" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="dateOfSubscripe" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="freeGenerationTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="freeIsActive" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="isLogin" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isSubscripe" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="plusGenerationTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="plusMounthlyActive" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="plusYearlyActive" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="savedLimit" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="subscripeType" optional="YES" attributeType="String"/>
+        <attribute name="ultraMounthlyActive" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="ultraYearlyActive" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="ExampData" representedClassName="ExampData" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="videoURL" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="IncompleteData" representedClassName="IncompleteData" syncable="YES">
+        <attribute name="credits" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="dateOfCreate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="descriptions" optional="YES" attributeType="String"/>
+        <attribute name="descriptionsAI" optional="YES" attributeType="String"/>
+        <attribute name="done" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="duration" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="musicName" optional="YES" attributeType="String"/>
+        <attribute name="pluginMode" optional="YES" attributeType="String"/>
+        <attribute name="ratio" optional="YES" attributeType="String"/>
+        <attribute name="selectImage" optional="YES" attributeType="Binary"/>
+        <attribute name="sreateSelector" optional="YES" attributeType="String"/>
+        <attribute name="strUrl" optional="YES" attributeType="String"/>
+        <attribute name="styleMode" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="SavedVideos" representedClassName="SavedVideos" syncable="YES">
+        <attribute name="dateOfCreate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="duration" optional="YES" attributeType="String"/>
+        <attribute name="genType" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="previewImage" optional="YES" attributeType="Binary"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="videoURL" optional="YES" attributeType="String"/>
+    </entity>
+</model>
